@@ -45,7 +45,7 @@ The function will do the following.
 
 ![](.//media/image3.png)
 
-**[Question 2: Promises]**
+**Question 2: Promises**
 
 -   Given the script file ***callbacks.js***, write a script that does
     the following:
@@ -68,7 +68,7 @@ The function will do the following.
 -   Output\
     ![](.//media/image5.png)
 
-**[Question 3: File Module]**
+**Question 3: File Module**
 
 -   Create a script that will do the following:
 
