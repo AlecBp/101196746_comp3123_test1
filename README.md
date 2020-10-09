@@ -8,8 +8,7 @@ overwriting your own work and causing your code to compile incorrectly.
 
 [Organize your folder structure in this way.]{.underline}
 
-![](.//media/image1.png){width="1.7083333333333333in"
-height="0.9791666666666666in"}
+![](.//media/image1.png)
 
 **[Lab Test Reference]{.underline}**
 
@@ -40,13 +39,11 @@ The function will do the following.
 
 -   Input
 
-![](.//media/image2.png){width="4.739583333333333in"
-height="0.2708333333333333in"}
+![](.//media/image2.png)
 
 -   Output
 
-![](.//media/image3.png){width="1.5729166666666667in"
-height="0.28125in"}
+![](.//media/image3.png)
 
 **[Question 2: Promises]{.underline}**
 
@@ -66,12 +63,10 @@ height="0.28125in"}
 
 ***callbacks.js***
 
-![](.//media/image4.png){width="4.832743875765529in"
-height="3.7343930446194227in"}
+![](.//media/image4.png)
 
 -   Output\
-    ![](.//media/image5.png){width="2.40625in"
-    height="0.4270833333333333in"}
+    ![](.//media/image5.png)
 
 **[Question 3: File Module]{.underline}**
 
@@ -102,8 +97,6 @@ height="3.7343930446194227in"}
 
 > **\> Output**
 >
-> ![](.//media/image6.png){width="1.6145833333333333in"
-> height="1.8125in"}
+> ![](.//media/image6.png)
 >
-> ![](.//media/image7.png){width="2.0416666666666665in"
-> height="1.8125in"}
+> ![](.//media/image7.png)
